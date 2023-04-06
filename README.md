@@ -18,7 +18,8 @@ SO THAT I can understand the search pattern the regex defines
 
 ## Important Links
 
-- gist.md
+ - [<a href='https://https://github.com/RussC22/Object-Oriented-Programming-' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=plastic&logo=Github&logoColor=8D22FF&labelColor=151304&color=C707A4'/></a>](https://github.com/RussC22/Regex-Tutorial)
+- [Demo](#)
 
 ## Technology Used
 
@@ -26,8 +27,6 @@ SO THAT I can understand the search pattern the regex defines
 
 ## Contact Me
 
-
-For any quesitons, concerns, or modification request contact me at:
 For quesitons, concerns, or suggestions contact me at:
 [Github](https://github.com/RussC22) or
 [Linkedin](https://www.linkedin.com/in/tavarus-cherry/)
